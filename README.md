@@ -15,6 +15,8 @@ Create a dashboard in Power BI for Claire that reflects all relevant Key Perform
 - Calls by time
 - Average speed of answer
 - Agent’s performance quadrant -> average handle time (talk duration) vs calls answered
+  ![image](https://github.com/Faizan-DataAnalyst/PwC-PowerBI-Internship/assets/144520186/6d34c80b-09aa-4550-9a90-d339d00447a2)
+
 
 ## Task 2: Customer Retention
 A few weeks after presenting your dashboard to the management, the Retention Manager from the telecom reaches out to you directly. He was impressed by your work and asked if you can put together a dashboard about customer retention.
@@ -26,6 +28,10 @@ In addition, to better understand the data, the telecom Retention Manager has sc
 - Currently, we get in touch after they have terminated the contract, but this is reactionary: it would be better to know in advance who is at risk
 - We have done customer analysis with Excel: it has always ended in a dead-end
 - We would like to know more about our customers: visualised clearly so that it’s self-explanatory for our management The Retentions Manager has provided some information, have a look through the resource section.
+![image](https://github.com/Faizan-DataAnalyst/PwC-PowerBI-Internship/assets/144520186/059c989b-a811-4104-9cd9-fb7a89cab49b)
+![image](https://github.com/Faizan-DataAnalyst/PwC-PowerBI-Internship/assets/144520186/97163835-fd0a-4596-a67b-6925c77b7892)
+![image](https://github.com/Faizan-DataAnalyst/PwC-PowerBI-Internship/assets/144520186/f8b1c109-3957-407e-864e-e97182514f1d)
+
 
 ## Task 3: Diversity & Inclusion
 Human Resources at our telecom client is highly into diversity and inclusion. They’ve been working hard to improve gender balance at the executive management level, but they’re not seeing any progress. They’re reaching out to us for help.
